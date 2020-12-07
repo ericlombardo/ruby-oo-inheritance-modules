@@ -3,3 +3,4 @@ require_relative "../lib/dancer.rb"
 
 puts Kid.metadata
 puts Dancer.metadata
+
